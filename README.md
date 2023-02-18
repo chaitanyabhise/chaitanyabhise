@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chaitanyabhise
 - 👀 I’m interested in c/cpp
 - 🌱 I’m currently learning Python/Java/Android development/Web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me Linkedin
-- 💞️ Single.
+- 💞️ Coading....
 - 
 <!---
 chaitanyabhise/chaitanyabhise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
