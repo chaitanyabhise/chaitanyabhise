@@ -2,7 +2,6 @@
 - 👀 I’m interested in c/cpp
 - 🌱 I’m currently learning Python/Java/Android development/Web development
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me Linkedin
 - 💞️ Coading....
 - 
 <!---
